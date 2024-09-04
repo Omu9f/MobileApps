@@ -24,6 +24,8 @@ Tools Used: React Native, Expo Go, Supabase
 
 [Repo Link](https://github.com/MosesDVarghese/supa-social-app)
 
+### Sample Image
+
 <img src="assets/linkup.png">
 
 ## Pixels
@@ -31,6 +33,8 @@ Tools Used: React Native, Expo Go, Supabase
 Pixels is an application that fetches images according to search results. Can also search by color. Utilizes Pixabay API for image fetching. Implements debouncing in search functionality.
 
 [Repo Link](https://github.com/MosesDVarghese/wallpaper-app)
+
+### Sample Image
 
 <img src="assets/pixels.png">
 
