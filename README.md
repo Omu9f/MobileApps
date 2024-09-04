@@ -1,6 +1,6 @@
 # React Native Apps
 
-This repository consolidates all the react native projects on my page into one place for easy access.
+This repository consolidates all the React Native projects on my page into one place for easy access.
 
 ## Yuber
 
@@ -9,6 +9,10 @@ Yuber is a ride-booking application that provides a seamless and secure user exp
 Tools Used: React Native, Expo Go, Clerk, Neon, Stripe, Geoapify, TailWindCSS
 
 [Repo Link](https://github.com/MosesDVarghese/uber-clone)
+
+### Sample Image
+
+<img src="assets/yuber.png">
 
 ## LinkUp
 
@@ -20,11 +24,15 @@ Tools Used: React Native, Expo Go, Supabase
 
 [Repo Link](https://github.com/MosesDVarghese/supa-social-app)
 
+<img src="assets/linkup.png">
+
 ## Pixels
 
 Pixels is an application that fetches images according to search results. Can also search by color. Utilizes Pixabay API for image fetching. Implements debouncing in search functionality.
 
 [Repo Link](https://github.com/MosesDVarghese/wallpaper-app)
+
+<img src="assets/pixels.png">
 
 ## Discord UI
 
