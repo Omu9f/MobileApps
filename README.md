@@ -2,6 +2,14 @@
 
 This repository consolidates all the React Native projects on my page into one place for easy access.
 
+## Native iOS Blur Effect Template
+
+This project implements a headers tab bar set with a blur effect similar to what is available natively in iOS.
+
+<b>Tools Used: React Native, Expo Go</b>
+
+[Repo Link](https://github.com/a-moses-varghese/native-ios-blur)
+
 ## Yuber
 
 Yuber is a ride-booking application that provides a seamless and secure user experience. The app features full user authentication and sign-in with Google, powered by Clerk, ensuring a streamlined registration and login process. User data is securely stored on Neon, a serverless Postgres platform. Yuber's main screens include a ride history view, a user profile section, and a booking interface. To book a ride, users select their start location—defaulting to their current location—and choose a destination. Yuber then suggests nearby drivers, providing detailed information such as pricing, distance, fees, and available car seats. Payment for rides is conveniently handled through Stripe, allowing users to enter their payment details and confirm their ride with ease. Once payment is complete, users are ready to embark on their journey.
