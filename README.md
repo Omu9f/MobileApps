@@ -47,11 +47,3 @@ Pixels is an application that fetches images according to search results. Can al
 ### Sample Image
 
 <img src="assets/pixels.png">
-
-## Discord UI
-
-This is a project to recreate Discord's UI. Feel free to use this for your own learning. Below are screens that are currently completed.
-
-<b>Tools Used: React Native, Expo Go</b>
-
-[Repo Link](https://github.com/MosesDVarghese/discord-app-v2.0)
